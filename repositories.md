@@ -2,6 +2,7 @@
 layout: page
 title: Repositories
 permalink: /repositories/
+toc: true
 ---
 
 {:toc}
