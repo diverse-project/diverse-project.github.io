@@ -10,6 +10,7 @@ Many of the projects are private, you may have to ask to permanent team member f
 
 ### Current development or highlighted projects 
 List here the project currently developped or actively maintained.
+
 #### projects mainly related to team platform 
 * https://gforge.inria.fr/projects/uml-pictionary/ UML Pictionnary
 * https://gforge.inria.fr/projects/varymde/ VARYMDE
