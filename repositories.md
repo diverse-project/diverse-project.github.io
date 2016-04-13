@@ -16,7 +16,7 @@ Many of the projects are private, you may have to ask to permanent team member f
 List here the project currently developped or actively maintained.
 
 ## projects mainly related to team platform 
-* https://gforge.inria.fr/projects/uml-pictionary UML Pictionnary
+* [UML Pictionnary](https://gforge.inria.fr/projects/uml-pictionary)
 * https://gforge.inria.fr/projects/varymde/ VARYMDE
 * https://github.com/diverse-project/k3 K3
 * https://gforge.inria.fr/projects/cours-gl/ Cours Genie Logiciel
