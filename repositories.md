@@ -5,6 +5,7 @@ permalink: /repositories/
 toc: true
 ---
 
+* TOC
 {:toc}
 
 This page lists  all the forge, github, etc, of the team's projects (must list every forges used by team member, including prototypes developement).
