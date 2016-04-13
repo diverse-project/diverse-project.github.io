@@ -30,8 +30,10 @@ List here the project currently developped or actively maintained.
 
 ### DiverSE former projects 
 (Well the DiverSE project is young enough and doesn't have inactive forge project yet).
+
 ### Triskell former projects 
 List here the forge of project that aren't actively developped. We keep them for easy retreival.
+
 #### projects mainly related to team platform 
 * https://gforge.inria.fr/projects/triskellprivate Triskell private
 * https://gforge.inria.fr/projects/triskellexchang/ Triskell Exchange Triskell Collaboration
