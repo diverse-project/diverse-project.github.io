@@ -5,9 +5,9 @@ permalink: /repositories/
 toc: true
 ---
 
-
-> * TOC
-> {:toc}
+------------------
+* TOC
+{:toc}
 ------------------
 
 This page lists  all the forge, github, etc, of the team's projects (must list every forges used by team member, including prototypes developement).
@@ -27,10 +27,10 @@ List here the project currently developped or actively maintained.
 
 ## projects mainly related to contracts 
 * GEMOC
-** [GEMOC](https://gforge.inria.fr/projects/gemoc/) (old forge)
-** [GEMOC dev](https://gforge.inria.fr/projects/gemoc-dev/) (old forge)
-** [GEMOC Github Organization](https://github.com/gemoc) current projects on Github
-** [Sirius Lab, modeldebugging](https://github.com/SiriusLab/ModelDebugging) current project for modeldebugging
+  * [GEMOC](https://gforge.inria.fr/projects/gemoc/) (old forge)
+  * [GEMOC dev](https://gforge.inria.fr/projects/gemoc-dev/) (old forge)
+  * [GEMOC Github Organization](https://github.com/gemoc) current projects on Github
+  * [Sirius Lab, modeldebugging](https://github.com/SiriusLab/ModelDebugging) current project for modeldebugging
 
 ## projects mainly related to prototypes 
 This includes internship work.
