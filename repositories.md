@@ -26,6 +26,10 @@ List here the project currently developped or actively maintained.
 ### Variability platform
 * [VARYMDE](https://gforge.inria.fr/projects/varymde/)
 
+### Dynamic Adaptive Systems platform
+
+### Diversity platform
+
 ### Software language Engineering
 * [Melange](https://github.com/diverse-project/melange)
 * [K3](https://github.com/diverse-project/k3)
