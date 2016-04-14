@@ -14,10 +14,11 @@ This page lists  all the forge, github, etc, of the team's projects or repositor
 Please move the project from one category to the other depending on the development current interrest.
 Many of the projects are private, you may have to ask to permanent team member for having access to them.
 
-# Current development or highlighted projects 
+# Current or highlighted projects and repositories
 List here the project currently developped or actively maintained.
 
 ## Repositories mainly related to team platform 
+
 ### Teaching platform
 * [UML Pictionnary](https://gforge.inria.fr/projects/uml-pictionary)
 * [Cours Genie Logiciel](https://gforge.inria.fr/projects/cours-gl/)
@@ -45,8 +46,10 @@ List here the project currently developped or actively maintained.
 This includes internship work.
 
 * [iEMS](https://bitbucket.org/jackybourgeois/iems-core) (interactive Energy Management System), Jacky Bourgeois, supervised by Johann Bourcier and Benoit Baudry
-* [ATSyRA](https://gforge.inria.fr/projects/building/) Attack Tree System Risk analysis. Collaboration with Logica (Contacts: Mathieu Acher, Didier Vojtisek, Sophie Pinchinat)
+* [ATSyRA](https://gforge.inria.fr/projects/building/) Attack Tree System Risk analysis. Collaboration with LogicA (Contacts: Mathieu Acher, Didier Vojtisek, Sophie Pinchinat)
 * [Moclodash](https://gforge.inria.fr/projects/moclodash/)  Memory efficient EMF model cloning. (Contact: Erwan Bousse)
+
+### Intership prototypes
 
 # DiverSE former Repositories 
 (The DiverSE project is young enough and doesn't have inactive forge project yet).
