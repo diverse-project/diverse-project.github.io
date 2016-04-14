@@ -30,7 +30,7 @@ List here the project currently developped or actively maintained.
 * [VARYMDE](https://gforge.inria.fr/projects/varymde/)
 
 ### 1.1.3. Dynamic Adaptive Systems platform
-* :open_file_folder:[Kevoree github organization](https://github.com/kevoree)
+* :open_file_folder: [Kevoree github organization](https://github.com/kevoree)
 
 ### 1.1.4. Diversity platform
 
@@ -45,13 +45,13 @@ List here the project currently developped or actively maintained.
 
 ## 1.2. Repositories mainly related to contracts 
 * GEMOC
-  * :open_file_folder:[GEMOC Github Organization](https://github.com/gemoc) current projects on Github
+  * :open_file_folder: [GEMOC Github Organization](https://github.com/gemoc) current projects on Github
   * [Sirius Lab, modeldebugging](https://github.com/SiriusLab/ModelDebugging) current project for modeldebugging
   * [GEMOC](https://gforge.inria.fr/projects/gemoc/) (old forge)
   * [GEMOC dev](https://gforge.inria.fr/projects/gemoc-dev/) (old forge)
 
 * DIVERSIFY
-  * :open_file_folder:[DIVERSIFY GitHub Organization](https://github.com/DIVERSIFY-project) current projects on Github
+  * :open_file_folder: [DIVERSIFY GitHub Organization](https://github.com/DIVERSIFY-project) current projects on Github
 
 ## 1.3. Repositories mainly related to prototypes 
 This includes internship work.
