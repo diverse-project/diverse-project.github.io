@@ -45,6 +45,8 @@ List here the project currently developped or actively maintained.
   * [GEMOC dev](https://gforge.inria.fr/projects/gemoc-dev/) (old forge)
   * [GEMOC Github Organization](https://github.com/gemoc) current projects on Github
   * [Sirius Lab, modeldebugging](https://github.com/SiriusLab/ModelDebugging) current project for modeldebugging
+* DIVERSIFY
+  * [DIVERSIFY GitHub Organization](https://github.com/DIVERSIFY-project) current projects on Github
 
 ## Repositories mainly related to prototypes 
 This includes internship work.
