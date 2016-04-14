@@ -18,12 +18,21 @@ Many of the projects are private, you may have to ask to permanent team member f
 List here the project currently developped or actively maintained.
 
 ## Repositories mainly related to team platform 
+### Teaching platform
 * [UML Pictionnary](https://gforge.inria.fr/projects/uml-pictionary)
-* [VARYMDE](https://gforge.inria.fr/projects/varymde/)
-* [K3](https://github.com/diverse-project/k3)
 * [Cours Genie Logiciel](https://gforge.inria.fr/projects/cours-gl/)
+
+### Variability platform
+* [VARYMDE](https://gforge.inria.fr/projects/varymde/)
+
+### Software language Engineering
+* [Melange](https://github.com/diverse-project/melange)
+* [K3](https://github.com/diverse-project/k3)
+* [Melange Studio](https://github.com/diverse-project/melange-studio)
+ 
+### Other platforms
 * [DiverSE Studio](https://github.com/diverse-project/diverse-studio)  An Eclipse studio gathering the Team's eclipse based tools.
-* [DiverSE reusable tools](https://github.com/diverse-project/tools)  reusable tools that aren't related to any specific team project.
+* [DiverSE reusable tools](https://github.com/diverse-project/tools)  reusable tools that aren't related to any specific team project. Includes eclipse plugin helpers, maven plugins and pure java libs.
 
 ## Repositories mainly related to contracts 
 * GEMOC
