@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+DiverSE’s research agenda is in the area of software engineering. In 
+this broad domain we develop models, methodologies and theories to 
+address the challenges raised by the emergence of several forms of 
+diversity in the design, deployment and evolution of software intensive 
+systems.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+http://diverse.irisa.fr/
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
