@@ -23,44 +23,50 @@ List here the project currently developped or actively maintained.
 ## 1.1. Repositories mainly related to team platform 
 
 ### 1.1.1. Teaching platform
-* [UML Pictionnary](https://gforge.inria.fr/projects/uml-pictionary)
-* [Cours Genie Logiciel](https://gforge.inria.fr/projects/cours-gl/)
+* UML Pictionnary: https://gforge.inria.fr/projects/uml-pictionary
+* Cours Genie Logiciel: https://gforge.inria.fr/projects/cours-gl/
 
 ### 1.1.2. Variability platform
-* [VARYMDE](https://gforge.inria.fr/projects/varymde/)
+* VARYMDE: https://gforge.inria.fr/projects/varymde/
 
 ### 1.1.3. Dynamic Adaptive Systems platform
-* :open_file_folder: [Kevoree github organization](https://github.com/kevoree)
+* :open_file_folder: Kevoree github organization https://github.com/kevoree
 
 ### 1.1.4. Diversity platform
+* :open_file_folder: STAMP github organization https://github.com/STAMP-project
+   * Descartes https://github.com/STAMP-project/pitest-descartes
+   * DSpot https://github.com/STAMP-project/dspot
+   * Sosifier https://github.com/DIVERSIFY-project/sosiefier
+* amiunique.org https://github.com/DIVERSIFY-project/amiunique
+   
 
 ### 1.1.5. Software language Engineering
-* [Melange](https://github.com/diverse-project/melange)
-* [K3](https://github.com/diverse-project/k3)
-* [Melange Studio](https://github.com/diverse-project/melange-studio)
+* Melange https://github.com/diverse-project/melange
+* K3 https://github.com/diverse-project/k3
+* Melange Studio https://github.com/diverse-project/melange-studio
  
 ### 1.1.6. Other platforms
-* [DiverSE Studio](https://github.com/diverse-project/diverse-studio)  An Eclipse studio gathering the Team's eclipse based tools.
-* [DiverSE reusable tools](https://github.com/diverse-project/tools)  reusable tools that aren't related to any specific team project. Includes eclipse plugin helpers, maven plugins and pure java libs.
+* DiverSE Studio https://github.com/diverse-project/diverse-studio  An Eclipse studio gathering the Team's eclipse based tools.
+* DiverSE reusable tools https://github.com/diverse-project/tools  reusable tools that aren't related to any specific team project. Includes eclipse plugin helpers, maven plugins and pure java libs.
 
 ## 1.2. Repositories mainly related to contracts 
 * GEMOC
-  * :open_file_folder: [GEMOC Github Organization](https://github.com/gemoc) current projects on Github
-  * [Sirius Lab, modeldebugging](https://github.com/SiriusLab/ModelDebugging) current project for modeldebugging
-  * [GEMOC](https://gforge.inria.fr/projects/gemoc/) (old forge)
-  * [GEMOC dev](https://gforge.inria.fr/projects/gemoc-dev/) (old forge)
+  * :open_file_folder: GEMOC Github Organization https://github.com/gemoc current projects on Github
+  * Sirius Lab, modeldebugging https://github.com/SiriusLab/ModelDebugging current project for modeldebugging
+  * GEMOC https://gforge.inria.fr/projects/gemoc/) (old forge)
+  * GEMOC dev https://gforge.inria.fr/projects/gemoc-dev/ (old forge)
 
 * DIVERSIFY
-  * :open_file_folder: [DIVERSIFY GitHub Organization](https://github.com/DIVERSIFY-project) current projects on Github
+  * :open_file_folder: DIVERSIFY GitHub Organization https://github.com/DIVERSIFY-project current projects on Github
 
 ## 1.3. Repositories mainly related to prototypes 
 This includes internship work.
 
 ### 1.3.1. Paper or preliminary work prototypes
 
-* [iEMS](https://bitbucket.org/jackybourgeois/iems-core) (interactive Energy Management System), Jacky Bourgeois, supervised by Johann Bourcier and Benoit Baudry
-* [ATSyRA](https://gforge.inria.fr/projects/building/) Attack Tree System Risk analysis. Collaboration with LogicA (Contacts: Mathieu Acher, Didier Vojtisek, Sophie Pinchinat)
-* [Moclodash](https://gforge.inria.fr/projects/moclodash/)  Memory efficient EMF model cloning. (Contact: Erwan Bousse)
+* iEMS https://bitbucket.org/jackybourgeois/iems-core (interactive Energy Management System), Jacky Bourgeois, supervised by Johann Bourcier and Benoit Baudry
+* ATSyRA https://gforge.inria.fr/projects/building/ Attack Tree System Risk analysis. Collaboration with LogicA (Contacts: Mathieu Acher, Didier Vojtisek, Sophie Pinchinat)
+* Moclodash https://gforge.inria.fr/projects/moclodash/  Memory efficient EMF model cloning. (Contact: Erwan Bousse)
 
 ### 1.3.2. Intership prototypes
 
@@ -71,11 +77,11 @@ This includes internship work.
 List here the forge of project that aren't actively developped. We keep them for easy retreival.
 
 ## 3.1. Repositories mainly related to team platform 
-* [Triskell private](https://gforge.inria.fr/projects/triskellprivate)
-* [Triskell Exchange](https://gforge.inria.fr/projects/triskellexchang/)  Triskell Collaboration
-* [Kermeta](https://gforge.inria.fr/projects/kermeta/)
-* [Kermeta 2]((https://gforge.inria.fr/projects/kermeta2/)
-* [MTL](https://gforge.inria.fr/projects/mtl/)
+* Triskell private https://gforge.inria.fr/projects/triskellprivate
+* Triskell Exchange https://gforge.inria.fr/projects/triskellexchang/  Triskell Collaboration
+* Kermeta https://gforge.inria.fr/projects/kermeta/
+* Kermeta 2 https://gforge.inria.fr/projects/kermeta2/
+* MTL https://gforge.inria.fr/projects/mtl/
 
 ## 3.2. Repositories related to contracts 
 * [Triskell FT](https://gforge.inria.fr/projects/triskellft/)
