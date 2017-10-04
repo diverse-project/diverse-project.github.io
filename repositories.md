@@ -69,12 +69,15 @@ This includes internship work.
 
 ### 1.3.2. Intership prototypes
 
+------------------
+
 # 2. DiverSE former Repositories 
 * GEMOC
   * [Sirius Lab, modeldebugging](https://github.com/SiriusLab/ModelDebugging) content has moved to eclipse organization
   * [GEMOC](https://gforge.inria.fr/projects/gemoc/) (old forge)
   * [GEMOC dev](https://gforge.inria.fr/projects/gemoc-dev/) (old forge)
 
+------------------
 # 3. Triskell former Repositories 
 List here the forge of project that aren't actively developped. We keep them for easy retreival.
 
