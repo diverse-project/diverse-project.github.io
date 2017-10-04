@@ -38,7 +38,7 @@ This is a list of the continuous integration servers used by the team. (Jenkins,
 * [https://ci.inria.fr/gemoc](https://ci.inria.fr/gemoc)
 
 ## CI servers mainly related to prototypes
-* [https://ci.inria.fr/building](https://ci.inria.fr/building) ATSyRA (Collaboration with Logica team)
+* [https://ci.inria.fr/atsyra](https://ci.inria.fr/atsyra) ATSyRA (Collaboration with Logica team)
 * [https://ci.inria.fr/moclodash/](https://ci.inria.fr/moclodash/) Moclodash (Contact: Erwan Bousse)
 
 
