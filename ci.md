@@ -22,6 +22,7 @@ This is a list of the continuous integration servers used by the team. (Jenkins,
 * [https://ci.inria.fr/k3al](https://ci.inria.fr/k3al)
 * [https://ci.inria.fr/kompren](https://ci.inria.fr/kompren)
 * [https://ci.inria.fr/malai](https://ci.inria.fr/malai)
+* [https://ci.eclipse.fr/gemoc](https://ci.eclipse.fr/gemoc)
 
 ### Dynamic Adaptive Systems platform
 
@@ -40,6 +41,8 @@ This is a list of the continuous integration servers used by the team. (Jenkins,
 * [https://ci.inria.fr/building](https://ci.inria.fr/building) ATSyRA (Collaboration with Logica team)
 * [https://ci.inria.fr/moclodash/](https://ci.inria.fr/moclodash/) Moclodash (Contact: Erwan Bousse)
 
+
+------------------
 # DiverSE former CI servers
 
 ## Formers CI servers mainly related to team platform
