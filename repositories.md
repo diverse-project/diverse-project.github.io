@@ -23,8 +23,8 @@ List here the project currently developped or actively maintained.
 ## 1.1. Repositories mainly related to team platform 
 
 ### 1.1.1. Teaching platform
-* UML Pictionnary: https://gforge.inria.fr/projects/uml-pictionary
-* Cours Genie Logiciel: https://gforge.inria.fr/projects/cours-gl/
+* UML Pictionnary: <https://gforge.inria.fr/projects/uml-pictionary>
+* Cours Genie Logiciel: <https://gforge.inria.fr/projects/cours-gl/>
 
 ### 1.1.2. Variability platform
 * VARYMDE: https://gforge.inria.fr/projects/varymde/
